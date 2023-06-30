@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience - 1"
+title: "TA-3 @IZTECH"
 collection: Teaching
 type: "Undergraduate course"
 permalink: /2021/2022-spring
@@ -7,12 +7,5 @@ venue: "Izmir Institute of Technology, Computer Engineering"
 location: "Izmir, Turkey"
 ---
 
-####  
-
-
-[Basic Computer Science and Programming - CS102](https://chemistry.iyte.edu.tr/en/cs-102-2/): 
-
-### [Operating Systems - CENG313](https://ceng.iyte.edu.tr/courses/ceng-322/)
-
-### [Computer Architecture - CENG311](https://ceng.iyte.edu.tr/courses/ceng-311/) 
+#### [Probability and Statistics - CENG222](https://ceng.iyte.edu.tr/courses/ceng-222/), [Operating Systems - CENG322](https://ceng.iyte.edu.tr/courses/ceng-322/), [Information Security - CENG418](https://ceng.iyte.edu.tr/courses/ceng-418/), [Embedded Computer Systems - CENG424](https://ceng.iyte.edu.tr/courses/ceng-424/), 
 
