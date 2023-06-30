@@ -1,5 +1,5 @@
 ---
-title: "TA-1"
+title: "TA-1 @IZTECH"
 type: "Undergraduate course"
 permalink: /2020/2021-spring-teaching-1
 venue: "Izmir Institute of Technology, Computer Engineering"
