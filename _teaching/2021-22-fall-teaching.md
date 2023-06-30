@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience - 1"
+title: "TA-2 @IZTECH"
 collection: Teaching
 type: "Undergraduate course"
 permalink: /2020/2021-spring-teaching-1
