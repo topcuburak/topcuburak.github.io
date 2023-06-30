@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Burak Topçu"
-  avatar           : ![5x5](https://github.com/topcuburak/topcuburak.github.io/assets/73446582/e1e7dab3-30b1-4990-b224-ce6a27d5dfb7)
+  avatar           : "/home/burak/Downloads/5x5.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
