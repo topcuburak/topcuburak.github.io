@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Burak Topçu"
-  avatar           : "/home/burak/Downloads/5x5.jpg"
+  avatar           : "5x5.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
