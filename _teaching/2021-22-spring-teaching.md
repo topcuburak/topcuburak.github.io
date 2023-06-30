@@ -2,7 +2,7 @@
 title: "Teaching Experience - 1"
 collection: Teaching
 type: "Undergraduate course"
-permalink: /2021/2022-fall
+permalink: /2021/2022-spring
 venue: "Izmir Institute of Technology, Computer Engineering"
 location: "Izmir, Turkey"
 ---
