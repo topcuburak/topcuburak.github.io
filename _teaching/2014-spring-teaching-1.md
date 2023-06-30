@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Experience - 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /2020/2021-spring-teaching-1
+venue: "Izmir Institute of Technology, Chemistry"
+location: "Izmir, Turkey"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+[Basic Computer Science and Programming - CS102: ]([url](https://chemistry.iyte.edu.tr/en/cs-102-2/))
+======
+This course is designed as an introductory course in computational techniques for solving problems from chemists with an emphasis on applications.
+https://chemistry.iyte.edu.tr/en/cs-102-2/
+
+Operating Systems - CENG313
 ======
 
-Heading 2
-======
 
-Heading 3
+Computer Architecture - CENG311 
 ======
