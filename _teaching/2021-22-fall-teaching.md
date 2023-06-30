@@ -7,9 +7,7 @@ venue: "Izmir Institute of Technology, Computer Engineering"
 location: "Izmir, Turkey"
 ---
 
-### [Basic Computer Science and Programming - CS102](https://chemistry.iyte.edu.tr/en/cs-102-2/): 
+#### [Theory of Computation - CENG213](https://ceng.iyte.edu.tr/courses/ceng-213/), [Computer Architecture - CENG311](https://ceng.iyte.edu.tr/courses/ceng-311/), [Cryptography - CENG471](https://ceng.iyte.edu.tr/courses/ceng-471/)
 
-### [Operating Systems - CENG313](https://ceng.iyte.edu.tr/courses/ceng-322/)
 
-### [Computer Architecture - CENG311](https://ceng.iyte.edu.tr/courses/ceng-311/) 
 
