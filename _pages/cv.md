@@ -11,22 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc, Electrical/Electronics Engineering @ Middle East Technical University (2015-2020)
+* MSc, Computer Engineering @ Izmir Institute of Technology (2020-2023)
+* PhD Comptuer Science and Engineering @ PSU, 2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2022: Research Assistant
+  * Izmir Institute of Technology 
+  * FTGPGPU - Hardware Fault Tolerance Analysis for General Purpose Graphics Processing Units (GPGPU) Applications (TUBITAK 3501 – Career Development Program (CAREER)) - 2019/2022.
+  * Supervisor: Isil Oz
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2022-2023: Research Assistant
+  * Izmir Institute of Technology 
+  * RAPPROX - Resource-Aware Compiler Design for Approximate Computing Techniques in General Purpose Graphics Processing Units (GPGPU) Applications (TUBITAK 2519 – COST Working Group Program)
+  * Supervisor: Isil Oz
+
 Skills
 ======
 * Skill 1
