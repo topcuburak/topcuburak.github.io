@@ -1,6 +1,7 @@
 ---
 title: "TA-1 @IZTECH"
-type: "Undergraduate course"
+type: Undergraduate course
+collection: Teaching
 permalink: /2020/2021-spring
 venue: "Izmir Institute of Technology, Computer Engineering"
 location: "Izmir, Turkey"
