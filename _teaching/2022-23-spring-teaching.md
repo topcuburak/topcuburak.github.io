@@ -1,7 +1,7 @@
 ---
 title: "TA5 @IZTECH"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Courses"
 permalink: /teaching/2023-spring-teaching
 venue: "Izmir Institute of Technology, Computer Engineering"
 location: "Izmir, Turkey"
