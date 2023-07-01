@@ -1,6 +1,6 @@
 ---
 title: "Histogram Equalization"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/histogramEqualization.jpeg'>"
+excerpt: "Performance and Energy Consumption Comparison on Different Platforms for Histogram Equalization <br/><img src='/images/histogramEqualization.jpeg'>"
 collection: portfolio
 ---
 
