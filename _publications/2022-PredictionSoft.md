@@ -1,5 +1,5 @@
 ---
-title: "Predicting the Soft Error Vulnerability of GPGPU Applications"
+title: "2022 - Predicting the Soft Error Vulnerability of GPGPU Applications"
 collection: publications
 permalink: /publication/2022-03-09-Predicting_the_Soft_Error_Vulnerability_of_GPGPU_Applications
 date: 2022-03-09
