@@ -1,10 +1,9 @@
 ---
-title: "Predicting the Soft Error Vulnerability of GPGPU Applications"
+title: "Performance Evaluation of CUDA Optimizations for Convolution Operations"
 collection: publications
-permalink: /publication/2022-03-09-Predicting_the_Soft_Error_Vulnerability_of_GPGPU_Applications
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2022-03-09
-venue: '2022 30th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9756720/'
-citation: 'B. Topçu and I. Öz, "Predicting the Soft Error Vulnerability of GPGPU Applications," 2022 30th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP), Valladolid, Spain, 2022, pp. 108-115, doi: 10.1109/PDP55904.2022.00025.'
+permalink: /publication/2022-05-15-Performance_Evaluation_of_CUDA_Optimizations_for_Convolution_Operations
+date: 2022-05-12
+venue: 'BAŞARIM 2022 - 7th High-Performance Computing Conference'
+paperurl: 'https://www.researchgate.net/profile/Burak-Topcu-6/publication/365182335_Performance_Evaluation_of_CUDA_Optimizations_for_Convolution_Operations/links/6368b7ea2f4bca7fd03c4e4c/Performance-Evaluation-of-CUDA-Optimizations-for-Convolution-Operations.pdf'
+citation: 'B. Topçu and I. Öz, "Performance Evaluation of CUDA Optimizations for Convolution Operations," BAŞARIM 2022 - 7th High-Performance Computing Conference, Istanbul, Turkiye, 2022'
 ---
