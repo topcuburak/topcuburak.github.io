@@ -1,7 +1,7 @@
 ---
 title: "TA-2 @IZTECH"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Courses"
 permalink: /teaching/2022-fall-teaching
 venue: "Izmir Institute of Technology, Computer Engineering"
 location: "Izmir, Turkey"
