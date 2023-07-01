@@ -1,6 +1,6 @@
 ---
-title: "Lecture Series on Time Predictability, Energy Budgeting, Simulation-based Analysis of complex systems, and MixedCriticality Systems" 
-excerpt: "Performance and Energy Consumption Comparison on Different Platforms for Histogram Equalization <br/><img src='/images/CERCIRAS2022TrainingSchool.jpg'>"
+title: " CERCIRAS Summer School 2022" 
+excerpt: " Lecture Series on Time Predictability, Energy Budgeting, Simulation-based Analysis of complex systems, and MixedCriticality Systems <br/><img src='/images/CERCIRAS2022TrainingSchool.jpg'>"
 collection: portfolio
 date: 2022-09-26
 venue: 'CERCIRAS Summer School 2022'
