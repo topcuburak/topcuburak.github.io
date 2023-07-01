@@ -2,7 +2,7 @@
 title: "Histogram Equalization"
 excerpt: "Performance and Energy Consumption Comparison on Different Platforms for Histogram Equalization <br/><img src='/images/histogramEqualization.jpeg'>"
 collection: portfolio
-date: 2021-10-26
+date: 2021-10-28
 venue: 'Long Term Internship'
 paperurl: 'https://github.com/topcuburak/Internship-Sundance/tree/main/Histogram_Equalization'
 ---
