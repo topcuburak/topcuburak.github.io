@@ -1,5 +1,5 @@
 ---
-title: "TA-1 @IZTECH"
+title: "TA-1, IZTECH"
 type: Undergraduate course
 collection: Teaching
 permalink: /2020/2021-spring
