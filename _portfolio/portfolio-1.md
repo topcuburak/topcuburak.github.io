@@ -1,7 +1,10 @@
 ---
-title: "Sundance Multiprocessor & HiPEAC collobrated Long Term Internship"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Sundance Multiprocessor & HiPEAC Collobrated Long Term Internship"
+excerpt: "Development of Power Application for the VCS-1 using LynSyn Lite @ Sundance Multiprocessor Technology"
 collection: portfolio
+date: 2022-02-02
+venue: 'Long Term Internship'
+paperurl: 'abc'
 ---
 
 - Development of Power Application for the VCS-1 using LynSyn Lite @ Sundance Multiprocessor Technology, United Kingdom. 
