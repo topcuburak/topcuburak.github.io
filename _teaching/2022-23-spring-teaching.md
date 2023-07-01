@@ -1,5 +1,5 @@
 ---
-title: "TA5 @Iztech"
+title: "TA5 @IZTECH"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching
