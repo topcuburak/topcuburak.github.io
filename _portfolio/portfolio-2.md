@@ -2,6 +2,9 @@
 title: "Histogram Equalization"
 excerpt: "Performance and Energy Consumption Comparison on Different Platforms for Histogram Equalization <br/><img src='/images/histogramEqualization.jpeg'>"
 collection: portfolio
+date: 2021-10-26
+venue: 'Long Term Internship'
+paperurl: 'https://github.com/topcuburak/Internship-Sundance/tree/main/Histogram_Equalization'
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I presented my results obtained from the internship duration in the HiPEAC Student Challenge event in Lyon. I am glad to attend this internship opportunity and grateful to both HiPEAC and Sundance for their interests and kind approaches. You can reach out the results and presentations via the shared GitHub link. 
