@@ -54,8 +54,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &BurakTo69252387
+#twitter:
+#  username               : &BurakTo69252387
 facebook:
   username               :
   app_id                 :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BurakTo69252387"
+#  twitter          : "BurakTo69252387"
   vine             :
   weibo            :
   xing             :
