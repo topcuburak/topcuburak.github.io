@@ -1,7 +1,7 @@
 ---
 title: "TA-1 @IZTECH"
 collection: teaching
-type: "Undergrad Courses"
+type: "Undergraduate Courses"
 permalink: /teaching/2021-spring-teaching
 venue: "Izmir Institute of Technology, Computer Engineering"
 date: "2021-02-15"
