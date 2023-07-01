@@ -1,16 +1,8 @@
 ---
-title: "Portfolio item number 1"
+title: "Sundance Multiprocessor & HiPEAC collobrated Long Term Internship"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
----
-title: "Portfolio item number 3"
-excerpt: "Short description of portfolio item number 3<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
-excerpt: "Short description of portfolio item number 2<br/><img src='/images/500x300.png'>"
-excerpt: "Short description of portfolio item number 3<br/><img src='/images/500x300.png'>"
-
-
-This is an item in your portfolio. It can have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Development of Power Application for the VCS-1 using LynSyn Lite @ Sundance Multiprocessor Technology, United Kingdom. 
+- The internship facilities provided by HiPEAC organization are highly beneficial for the students in terms of being part of specialized companies such as ARM, Sundance, etc., on highly technical topics. I applied to Sundance's Beyond Tulipp internship program in May. We agreed on the proposal I submitted to the institution, and I completed some preliminary training offered by Xilinx. Thanks to this training duration, I learned the current Xilinx chips and unified code development environments. After I started the internship, I had the opportunity to test my knowledge resulting from the tutorials provided by Xilinx and the specifications supplied by Sundance. During the internship, they carried out weekly meetings to talk about the current process of company members and mine also. I can ask my questions directly to the Company members at any time via mail or Slack. This is a significant advantage for the interns in terms of increasing the intern's working motivation and pushing up the intern's knowledge about both coding and hardware. At the end of this internship, I can say that I am more familiar with the Zynq US+ chips, Petalinux environment, and Xilinx ng platforms (both Vivado and Vitis HLS). Also, I presented my results obtained from the internship duration at the HiPEAC Student Challenge event in Lyon. I am glad to attend this internship opportunity and grateful to both HiPEAC and Sundance for their interests and kind approaches.
