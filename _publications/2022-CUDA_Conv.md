@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "Predicting the Soft Error Vulnerability of GPGPU Applications"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2022-03-09
+venue: '2022 30th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)'
+paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://ieeexplore.ieee.org/abstract/document/9756720/)'
+citation: 'B. Topçu and I. Öz, "Predicting the Soft Error Vulnerability of GPGPU Applications," 2022 30th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP), Valladolid, Spain, 2022, pp. 108-115, doi: 10.1109/PDP55904.2022.00025.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
