@@ -1,6 +1,6 @@
 ---
 title: "Teaching Experience - 1"
-collection: Teaching
+collection: teaching
 type: "Undergraduate course"
 permalink: /2020/2021-spring-teaching-1
 venue: "Izmir Institute of Technology, Computer Engineering"
