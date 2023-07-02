@@ -28,17 +28,17 @@ Work experience
   * Supervisor: Isil Oz
 
 * 2020-2021: Software Engineer
-  * Software Engineer @ Vestel Electronics | Manisa, Turkey
+  * Software Engineer at Vestel Electronics in Manisa, Turkey
   * Developing low-level software algorithms (on OOP basis) for the updated or varying network packets of IP TVs and smart-TV applications such as Netflix for the various TV brands produced by VESTEL Electronics.
   * Reference: Alihan Dikici (My manager), [linkedIn](https://www.linkedin.com/in/alihan-dikici?trk=public_profile_browsemap&originalSubdomain=tr)
 
 * 2019: Internship 
-  * [Roketsan](https://www.roketsan.com.tr/tr) | Ankara, Turkey
+  * [Roketsan](https://www.roketsan.com.tr/tr) in Ankara, Turkey
   * Developing missile guidance integrated systems through object detection and tracking algorithms for real-time systems 
   * [Code and report.](algorithm)
 
 * 2019: Internship 
-  * [Dalgakiran Compressors](https://www.dalgakiran.com/en) | Istanbul, Turkey
+  * [Dalgakiran Compressors](https://www.dalgakiran.com/en) in Istanbul, Turkey
   * Embedding electrical panes, integrating sensors and electrical motors, and controlling the compressor machines via a PCB.
   * [Code and report.](algorithm)
 
