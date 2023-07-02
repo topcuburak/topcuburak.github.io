@@ -35,17 +35,16 @@ Work experience
 * 2019: Internship 
   * [Roketsan](https://www.roketsan.com.tr/tr) in Ankara, Turkey
   * Developing missile guidance integrated systems through object detection and tracking algorithms for real-time systems 
-  * [Code and report.](algorithm)
+  * [Code and report.]([algorithm](https://github.com/topcuburak/topcuburak.github.io/blob/master/_data/RoketsanIntenshipReport.pdf))
 
 * 2019: Internship 
   * [Dalgakiran Compressors](https://www.dalgakiran.com/en) in Istanbul, Turkey
   * Embedding electrical panes, integrating sensors and electrical motors, and controlling the compressor machines via a PCB.
-  * [Code and report.](algorithm)
 
 Skills
 ======
 * Data Collection and Analysis Tools
-  * (including Sci-kit ML built-ins for data processing;
+  * A comprehensive experience in manipulating files, cleaning the data (feature selections/reductions and eliminating outliers), and analyzing them via plots.  
 * Software
   * Windows and Linux operating systems
   * C/C++, CUDA, Python (Tensorflow and PyTorch cuDNN accelerators), Verilog (Modelsim, Vivado, and Vitis, FPGA experiences), Assembly (ARM, MIPS, PTX, SASS), MATLAB programming languages,
