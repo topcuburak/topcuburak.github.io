@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
+* 2021-2023: Graduate Teaching Assistant, at Dept. of Computer Engineering, Izmir Institute of Technology 
+
 * 2022-2023: Research Assistant
   * Izmir Institute of Technology 
   * RAPPROX - Resource-Aware Compiler Design for Approximate Computing Techniques in General Purpose Graphics Processing Units (GPGPU) Applications (TUBITAK 2519 – COST Working Group Program)
-  * Supervisor: Isil Oz
 
 * 2020-2022: Research Assistant
   * Izmir Institute of Technology 
   * FTGPGPU - Hardware Fault Tolerance Analysis for General Purpose Graphics Processing Units (GPGPU) Applications (TUBITAK 3501 – Career Development Program (CAREER)) - 2019/2022.
-  * Supervisor: Isil Oz
 
 * 2021: Long-Term Intern
   * Sundance Multiprocessor Tech, Chesham, UK 
@@ -35,7 +35,6 @@ Work experience
 * 2020-2021: Software Engineer
   * Software Engineer at Vestel Electronics in Manisa, Turkey
   * Developing low-level software algorithms (on OOP basis) for the updated or varying network packets of IP TVs and smart-TV applications such as Netflix for the various TV brands produced by VESTEL Electronics.
-  * Reference: Alihan Dikici (My manager), [linkedIn](https://www.linkedin.com/in/alihan-dikici?trk=public_profile_browsemap&originalSubdomain=tr)
 
 * 2019: Internship 
   * [Roketsan](https://www.roketsan.com.tr/tr) in Ankara, Turkey
