@@ -5,7 +5,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Burak Topcu / Site Title"
+title                    : "Burak Topcu"
 title_separator          : "-"
 name                     : &name "Burak Topçu"
 description              : &description "personal description"
