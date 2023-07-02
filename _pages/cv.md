@@ -17,32 +17,24 @@ Education
 
 Work experience
 ======
-* 2021-2023: Graduate Teaching Assistant, at Dept. of Computer Engineering, Izmir Institute of Technology 
+* 2021-2023: Graduate Teaching Assistant at Dept. of Computer Engineering, Izmir Institute of Technology 
 
-* 2022-2023: Research Assistant
-  * Izmir Institute of Technology 
+* 2020-2023: Research Assistant, Izmir Institute of Technology 
   * RAPPROX - Resource-Aware Compiler Design for Approximate Computing Techniques in General Purpose Graphics Processing Units (GPGPU) Applications (TUBITAK 2519 – COST Working Group Program)
-
-* 2020-2022: Research Assistant
-  * Izmir Institute of Technology 
   * FTGPGPU - Hardware Fault Tolerance Analysis for General Purpose Graphics Processing Units (GPGPU) Applications (TUBITAK 3501 – Career Development Program (CAREER)) - 2019/2022.
 
-* 2021: Long-Term Intern
-  * Sundance Multiprocessor Tech, Chesham, UK 
+* 2021: Long-Term Intern, Sundance Multiprocessor Tech, Chesham, UK 
   * Power profiling of custom applications (especially ML-based applications) runs on 1st version of Vision Control Sensor (VCS-1) by sampling driven current and supplied voltage with the help of LynSyn device.
   * [Outcomes](https://github.com/topcuburak/Internship-Sundance) and [reports](https://www.sundance.com/hipeac-internship-report-2021/).
 
-* 2020-2021: Software Engineer
-  * Software Engineer at Vestel Electronics in Manisa, Turkey
+* 2020-2021: Software Engineer at Vestel Electronics in Manisa, Turkey
   * Developing low-level software algorithms (on OOP basis) for the updated or varying network packets of IP TVs and smart-TV applications such as Netflix for the various TV brands produced by VESTEL Electronics.
 
-* 2019: Internship 
-  * [Roketsan](https://www.roketsan.com.tr/tr) in Ankara, Turkey
+* 2019: Internship, [Roketsan](https://www.roketsan.com.tr/tr) in Ankara, Turkey
   * Developing missile guidance integrated systems through object detection and tracking algorithms for real-time systems 
   * [Code and report.]([algorithm](https://github.com/topcuburak/topcuburak.github.io/blob/master/_data/RoketsanIntenshipReport.pdf))
 
-* 2019: Internship 
-  * [Dalgakiran Compressors](https://www.dalgakiran.com/en) in Istanbul, Turkey
+* 2019: Internship, [Dalgakiran Compressors](https://www.dalgakiran.com/en) in Istanbul, Turkey
   * Embedding electrical panes, integrating sensors and electrical motors, and controlling the compressor machines via a PCB.
 
 Skills
