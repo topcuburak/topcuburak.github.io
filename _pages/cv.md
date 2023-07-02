@@ -27,6 +27,11 @@ Work experience
   * FTGPGPU - Hardware Fault Tolerance Analysis for General Purpose Graphics Processing Units (GPGPU) Applications (TUBITAK 3501 – Career Development Program (CAREER)) - 2019/2022.
   * Supervisor: Isil Oz
 
+* 2021: Long-Term Intern
+  * Sundance Multiprocessor Tech, Chesham, UK 
+  * Power profiling of custom applications (especially ML-based applications) runs on 1st version of Vision Control Sensor (VCS-1) by sampling driven current and supplied voltage with the help of LynSyn device.
+  * [Outcomes](https://github.com/topcuburak/Internship-Sundance) and [reports](https://www.sundance.com/hipeac-internship-report-2021/).
+
 * 2020-2021: Software Engineer
   * Software Engineer at Vestel Electronics in Manisa, Turkey
   * Developing low-level software algorithms (on OOP basis) for the updated or varying network packets of IP TVs and smart-TV applications such as Netflix for the various TV brands produced by VESTEL Electronics.
