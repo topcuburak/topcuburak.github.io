@@ -17,24 +17,40 @@ Education
 
 Work experience
 ======
-* 2020-2022: Research Assistant
-  * Izmir Institute of Technology 
-  * FTGPGPU - Hardware Fault Tolerance Analysis for General Purpose Graphics Processing Units (GPGPU) Applications (TUBITAK 3501 – Career Development Program (CAREER)) - 2019/2022.
-  * Supervisor: Isil Oz
-
 * 2022-2023: Research Assistant
   * Izmir Institute of Technology 
   * RAPPROX - Resource-Aware Compiler Design for Approximate Computing Techniques in General Purpose Graphics Processing Units (GPGPU) Applications (TUBITAK 2519 – COST Working Group Program)
   * Supervisor: Isil Oz
 
+* 2020-2022: Research Assistant
+  * Izmir Institute of Technology 
+  * FTGPGPU - Hardware Fault Tolerance Analysis for General Purpose Graphics Processing Units (GPGPU) Applications (TUBITAK 3501 – Career Development Program (CAREER)) - 2019/2022.
+  * Supervisor: Isil Oz
+
+* 2020-2021: Software Engineer
+  * Software Engineer @ Vestel Electronics | Manisa, Turkey
+  * Developing low-level software algorithms (on OOP basis) for the updated or varying network packets of IP TVs and smart-TV applications such as Netflix for the various TV brands produced by VESTEL Electronics.
+  * Reference: Alihan Dikici (My manager), [linkedIn](https://www.linkedin.com/in/alihan-dikici?trk=public_profile_browsemap&originalSubdomain=tr)
+
+* 2019: Internship 
+  * [Roketsan](https://www.roketsan.com.tr/tr) | Ankara, Turkey
+  * Developing missile guidance integrated systems through object detection and tracking algorithms for real-time systems 
+  * [Code and report.](algorithm)
+
+* 2019: Internship 
+  * [Dalgakiran Compressors](https://www.dalgakiran.com/en) | Istanbul, Turkey
+  * Embedding electrical panes, integrating sensors and electrical motors, and controlling the compressor machines via a PCB.
+  * [Code and report.](algorithm)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Collection and Analysis Tools
+  * (including Sci-kit ML built-ins for data processing;
+* Software
+  * Windows and Linux operating systems
+  * C/C++, CUDA, Python (Tensorflow and PyTorch cuDNN accelerators), Verilog (Modelsim, Vivado, and Vitis, FPGA experiences), Assembly (ARM, MIPS, PTX, SASS), MATLAB programming languages,
+  * GPGPU Simulator (GPGPU-Sim), NVIDIA Profiling tools (Nsight Compute Tool - NCU, Nsight Systems - NVPROF 
+* Teaching, Tutoring, and Presentation Skills
 
 Publications
 ======
@@ -50,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
