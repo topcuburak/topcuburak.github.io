@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Burak Topçu"
   avatar           : "5x5.jpg"
-  bio              : "(Hopefully) PhD Student at CSE, PSU "
-  location         : "Location"
+  bio              : "PhD Student at CSE, PSU "
+#  location         : "Location"
   employer         :
 # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uj3eWlIAAAAJ&hl=en&oi=ao"
