@@ -1,5 +1,5 @@
 ---
-title: "Courses I was the TA at CENG, IZTECH (2021-2023)"
+title: "Courses I was the TA at CENG, IZTECH (till 2023)"
 collection: teaching
 type: Undergraduate Courses
 venue: "Izmir Institute of Technology, Computer Engineering"
