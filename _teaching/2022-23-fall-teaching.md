@@ -8,5 +8,5 @@ location: "Izmir, Turkey"
 date: "2023-02-15"
 ---
 
-#### 1- [Computer Architecture - CENG311](https://ceng.iyte.edu.tr/courses/ceng-311/)
-#### 2- [Heterogenous Parallel Programming - CENG443](https://ceng.iyte.edu.tr/courses/ceng-443/)
+### 1- [Computer Architecture - CENG311](https://ceng.iyte.edu.tr/courses/ceng-311/)
+### 2- [Heterogenous Parallel Programming - CENG443](https://ceng.iyte.edu.tr/courses/ceng-443/)
