@@ -3,7 +3,7 @@ title: "Courses I was the TA at CENG, IZTECH (2021-2023)"
 collection: teaching
 venue: "Izmir Institute of Technology, Computer Engineering"
 location: "Izmir, Turkey"
-
+date: 2021
 ---
 
 1. [Computer Architecture - CENG311](https://ceng.iyte.edu.tr/courses/ceng-311/)
