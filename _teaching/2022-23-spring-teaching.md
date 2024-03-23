@@ -1,11 +1,9 @@
 ---
-title: "Courses I was the TA at CENG, IZTECH"
+title: "Courses I was the TA at CENG, IZTECH (2021-2023)"
 collection: teaching
 type: "Undergraduate Courses"
-permalink: /teaching/2023-spring-teaching
 venue: "Izmir Institute of Technology, Computer Engineering"
 location: "Izmir, Turkey"
-date: "2023-02-15"
 ---
 
 1. [Computer Architecture - CENG311](https://ceng.iyte.edu.tr/courses/ceng-311/)
