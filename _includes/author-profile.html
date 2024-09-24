@@ -27,8 +27,9 @@
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
-        <li><i class="fa fa-fw fa-solid-900" aria-hidden="true"></i> {{"\n"}}</li>
       {% endif %}
+
+      <li><i class="fa fa-fw fa-solid-900" aria-hidden="true"></i> {{"  "}}</li>
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
