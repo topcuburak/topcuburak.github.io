@@ -7,7 +7,7 @@
 locale                   : "en-US"
 title                    : "Burak Topcu"
 title_separator          : "-"
-name                     : &name "Burak Topçu"
+name                     : &name "Burak Topcu"
 description              : &description "personal description"
 url                      : https://topcuburak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
