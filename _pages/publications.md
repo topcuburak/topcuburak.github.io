@@ -18,7 +18,7 @@ author_profile: true
 - [x] [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uj3eWlIAAAAJ&citation_for_view=uj3eWlIAAAAJ:u5HHmVD_uO8C), [Code](https://github.com/BT-MasterThesis/Optimizing_ConvolutionAlgorithms_CUDA)
 
 
-<span style="color:blue">some *blue* text</span>.
+<font color="red">This text is red!</font>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
