@@ -23,5 +23,5 @@ author_profile: true
 
 ## _MSc Thesis_: Evaluating Impacts of Micro-architectural Metrics on Error Resilience and Performance of General Purpose GPU Applications (URL) <br />
 - [ ] Venue: MSc thesis defended at Dept. of Computer Engineering, IZTECH 2023 
-- [ ] [Thesis](https://www.proquest.com/openview/1717ffc4207b95d340d809a87ffe6183/1?pq-origsite=gscholar&cbl=2026366&diss=y), [code](https://github.com/BT-MasterThesis)
+- [x] [Thesis](https://www.proquest.com/openview/1717ffc4207b95d340d809a87ffe6183/1?pq-origsite=gscholar&cbl=2026366&diss=y), [code](https://github.com/BT-MasterThesis)
 
