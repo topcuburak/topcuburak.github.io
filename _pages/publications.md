@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-### <font color="black">**[Soft error vulnerability prediction of GPGPU applications](https://ieeexplore.ieee.org/abstract/document/9756720/)**!</font>  <br />
+### <font color="black">**Soft error vulnerability prediction of GPGPU applications**!</font>  <br />
 - [ ] Journal: The Journal of Supercomputing Vol:70, Issue:6
 - [x] [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uj3eWlIAAAAJ&citation_for_view=uj3eWlIAAAAJ:d1gkVwhDpl0C), [Code](https://github.com/BT-MasterThesis/SoftErrorVulnerabilityPrediction-GPGPUs)
 
-### **[Predicting the Soft Error Vulnerability of GPGPU Applications](https://ieeexplore.ieee.org/abstract/document/9756720/)** <br />
+### **Predicting the Soft Error Vulnerability of GPGPU Applications** <br />
 - [ ] Conference: 2022 30th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)
 - [x] [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uj3eWlIAAAAJ&citation_for_view=uj3eWlIAAAAJ:u-x6o8ySG0sC), [Code](https://github.com/BT-MasterThesis/SoftErrorVulnerabilityPrediction-GPGPU)
 
