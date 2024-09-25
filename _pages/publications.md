@@ -20,6 +20,10 @@ author_profile: true
 
 <font color="red">This text is red!</font>
 
+<span style="color:red">
+Text content
+</span>
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
