@@ -12,12 +12,10 @@ I am a second-year PhD student in the Dept. of Computer Science and Engineering 
 ### 1. UVM Performance in Heterogenous Computing Environments:
 - Analyzing performance tradeoffs between page migration and remote data accesses in multi-GPU systems
 - Mitigating the performance overhead of address translation impact in multi-GPU systems
-
 ### 2. Sustainability in Computing Systems
 - Carbon footprint measurements in various scale computing infrastructures.
 - Research on the methodological approaches to mitigate carbon footprint on cloud infrastructures.
-
-## 3. LLM Inference Accelerators
+### 3. LLM Inference Accelerators
 
 
 ## Short Biography
