@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### <font color="black"> Soft error vulnerability prediction of GPGPU applications !</font>  <br />
+### Soft error vulnerability prediction of GPGPU applications <br />
 - [ ] Journal: The Journal of Supercomputing Vol:70, Issue:6
 - [x] [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uj3eWlIAAAAJ&citation_for_view=uj3eWlIAAAAJ:d1gkVwhDpl0C), [Code](https://github.com/BT-MasterThesis/SoftErrorVulnerabilityPrediction-GPGPUs)
 
