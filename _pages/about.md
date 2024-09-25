@@ -10,14 +10,12 @@ redirect_from:
 
 Hello World! I am Burak Topcu. I am a second-year PhD student in the Dept. of Computer Science and Engineering at PSU, under the supervision of [Mahmut Taylan Kandemir](https://www.cse.psu.edu/hpcl/kandemir/). I completed my course workload and passed the qualifying exams, which consisted of core concepts of computer science, including operating systems, computer architecture, algorithms, theory, and data structures. I am an active member of _AI4CI core group_, and my research focuses as listed below: 
 
-**1. UVM Performance in Heterogenous Computing Environments:**
-  **1.1.** Analyzing performance tradeoffs between page migration and remote direct accesses in multi-GPU systems.
-  **1.2** Mitigating the performance overhead of address translation impact in multi-GPU systems.
-
-**2. Sustainability in Computing Systems**
-  2.1. Carbon footprint measurements in various scale computing infrastructures.
-  2.2. Research on the methodological approaches to mitigate carbon footprint on cloud infrastructures.
-
+**1. UVM Performance in Heterogenous Computing Environments:** <br /> 
+**_1.1._** Analyzing performance tradeoffs between page migration and remote direct accesses in multi-GPU systems. <br /> 
+**_1.2_** Mitigating the performance overhead of address translation impact in multi-GPU systems. <br /> 
+**2. Sustainability in Computing Systems** <br /> 
+**_2.1_.** Carbon footprint measurements in various scale computing infrastructures. <br /> 
+**_2.2._** Research on the methodological approaches to mitigate carbon footprint on cloud infrastructures. <br /> 
 **3. LLM Inference Accelerators**
 
 ### Short Biography
