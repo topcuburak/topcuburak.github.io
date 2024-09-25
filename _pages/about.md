@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 I am a second-year PhD student in the Dept. of Computer Science and Engineering at PSU, under the supervision of [Mahmut Taylan Kandemir]([url](https://www.cse.psu.edu/hpcl/kandemir/)). I completed my course workload and passed the qualifying exams, which consisted of core concepts of computer science, including operating systems, computer architecture, algorithms, theory, and data structures. My research focuses as listed below: 
-#### 1. UVM Performance in Heterogenous Computing Environments:
+### 1. UVM Performance in Heterogenous Computing Environments:
 - Analyzing performance tradeoffs between page migration and remote data accesses in multi-GPU systems
 - Mitigating the performance overhead of address translation impact in multi-GPU systems
 
-#### 2. Sustainability in Computing Systems
+### 2. Sustainability in Computing Systems
 - Carbon footprint measurements in various scale computing infrastructures.
 - Research on the methodological approaches to mitigate carbon footprint on cloud infrastructures.
 
-### 3. LLM Inference Accelerators
+## 3. LLM Inference Accelerators
 
 
 ## Short Biography
