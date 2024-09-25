@@ -1,5 +1,6 @@
 ---
 permalink: /
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -7,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Dept. of Computer Science and Engineering at PSU, under the supervision of [Mahmut Taylan Kandemir]([url](https://www.cse.psu.edu/hpcl/kandemir/)).
+I am a second-year PhD student in the Dept. of Computer Science and Engineering at PSU, under the supervision of [Mahmut Taylan Kandemir]([url](https://www.cse.psu.edu/hpcl/kandemir/)). I completed my course workload and passed the qualifying exams, which consisted of core concepts of computer science, including operating systems, computer architecture, algorithms, theory, and data structures. My research focuses as listed below: 
+1. UVM performance in heterogenous environments:
+2. Sustainability enhancements in computer 
+
+
 
 
 ### Short Biography
