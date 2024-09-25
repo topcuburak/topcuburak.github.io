@@ -20,10 +20,18 @@ Hello World! I am Burak Topcu. I am a second-year PhD student in the Dept. of Co
 
 **3. LLM Inference Accelerators**
 
-## Short Biography
-I got my BSc degree from the Dept. of [Electrical and Electronics Engineering at Middle East Technical University]([url](https://eee.metu.edu.tr/)) as an honorary student in 2020. There, I took introductory and intermediate-level courses in Electronics (semiconductor devices, analog/digital circuits, and logic design), Electromagnetic Theory and Waves, Electromechanical Energy Conversions, Circuits, Signals and Systems, and Core Computer Science (Data structures, operating systems, and so on.) domains.
+### Short Biography
+I pursued my BSc degree from the Dept. of [Electrical and Electronics Engineering]([url](https://eee.metu.edu.tr/)) at Middle East Technical University (METU) as an honorary student in 2020. There, I took introductory and intermediate-level courses, such as electronics (semiconductor devices, analog/digital circuits, and logic design), electromagnetic theory&waves, electromechanical energy conversions, circuits, signals and systems, and core computer science (data structures, operating systems, and so on.) domains. One can reach out to my graduation project [here]([URL](https://www.youtube.com/watch?v=pE_Y60KRJ9o)), which was about visible light communication and serial communication protocols. 
 
-After graduating from METU in 2020, I started my MSc at the [Dept. of Computer Engineering at Izmir Institute of Technology]([url](https://ceng.iyte.edu.tr/)) under the supervision of Isil Oz, working as a research assistant at [PARS Laboratory]([url](https://parsiyte.github.io/)). During my MSc education, I took advanced Computer Architecture (Multi-core and GPU architectures), Heterogenous Programming (CUDA, OpenMP), Deep Learning (DNNs, Encoding & Decoding), and Computer Network courses. Besides, I worked on the Resource-Aware Compiler Design for Approximate Computing Techniques in General Purpose Graphics Processing Units (GPGPU) Applications (RAPPROX, TUBITAK 2519) and Hardware Fault Tolerance Analysis for General Purpose Graphics Processing Units (GPGPU) Applications ([FTGPGPU]([url](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=Jber3GMAAAAJ&sortby=pubdate&citation_for_view=Jber3GMAAAAJ:QIV2ME_5wuYC)), TUBITAK 3501) Projects. While working on these research projects, I first analyzed GPU hardware's fault tolerance through various GPGPU applications and proposed an ML-based soft error vulnerability evaluation framework. Thanks to this study, I closely investigated GPU architectures via GPU simulators  Literature and subsequently gained a more profound knowledge of performance optimizations and energy consumption. Afterward, I carried out approximation-based accelerating solutions on GPU hardware for applications that cannot utilize architecture well and reached significant performance and energy improvements. 
+Afterwards, I started my MSc education in the [Dept. of Computer Engineering]([url](https://ceng.iyte.edu.tr/))  at Izmir Institute of Technology (IZTECH) under the supervision of [Isil Oz]([url](https://ceng.iyte.edu.tr/people/isil-oz/)), and worked as an RA in [PARS Laboratory]([url](https://parsiyte.github.io/)). I studied in Resource-Aware Compiler Design for Approximate Computing Techniques in General Purpose Graphics Processing Units (GPGPU) Applications (RAPPROX, TUBITAK 2519) and Hardware Fault Tolerance Analysis for General Purpose Graphics Processing Units (GPGPU) Applications ([FTGPGPU]([url](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=Jber3GMAAAAJ&sortby=pubdate&citation_for_view=Jber3GMAAAAJ:QIV2ME_5wuYC)), TUBITAK 3501) Projects. 
 
-Now, 
+
+While working on these research projects, I first analyzed GPU hardware's fault tolerance through various GPGPU applications and proposed an ML-based soft error vulnerability evaluation framework. Thanks to this study, I closely investigated GPU architectures via GPU simulators  Literature and subsequently gained a more profound knowledge of performance optimizations and energy consumption. Afterward, I carried out approximation-based accelerating solutions on GPU hardware for applications that cannot utilize architecture well and reached significant performance and energy improvements. 
+
+
+During my MSc, I took advanced computer architecture, heterogenous programming, deep learning, and computer network courses. 
+
+(Multi-core and GPU architectures)
+(CUDA, OpenMP)
+(DNNs, Encoding & Decoding)
 
