@@ -7,7 +7,7 @@ author_profile: true
 
 ## GPPRMon: GPU Runtime Memory Performance and Power Monitoring Tool (2023) <br />
 - [ ] Venue:  Euro-Par 2023: Parallel Processing Workshops (Conference)
-- [x] [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uj3eWlIAAAAJ&citation_for_view=uj3eWlIAAAAJ:qjMakFHDy7sC), [Code](https://github.com/parsiyte/GPPRMon)
+- [x] **[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uj3eWlIAAAAJ&citation_for_view=uj3eWlIAAAAJ:qjMakFHDy7sC), [Code](https://github.com/parsiyte/GPPRMon)**
 
 ## Soft error vulnerability prediction of GPGPU applications (2023) <br />
 - [ ] Venue: The Journal of Supercomputing Vol:70, Issue:6 (Journal)
