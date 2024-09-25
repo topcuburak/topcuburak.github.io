@@ -12,7 +12,7 @@ Hello World! I am Burak Topcu. I am a second-year PhD student in the Dept. of Co
 
 **1. UVM Performance in Heterogenous Computing Environments:** <br /> 
 **_1.1._** Analyzing performance tradeoffs between page migration and remote direct accesses in multi-GPU systems. <br /> 
-**_1.2_** Mitigating the performance overhead of address translation impact in multi-GPU systems. <br /> 
+**_1.2._** Mitigating the performance overhead of address translation impact in multi-GPU systems. <br /> 
 **2. Sustainability in Computing Systems** <br /> 
 **_2.1_.** Carbon footprint measurements in various scale computing infrastructures. <br /> 
 **_2.2._** Research on the methodological approaches to mitigate carbon footprint on cloud infrastructures. <br /> 
