@@ -11,7 +11,7 @@ author_profile: true
 
 ### **Predicting the Soft Error Vulnerability of GPGPU Applications** <br />
 - [ ] Conference: 2022 30th Euromicro International Conference on Parallel, Distributed and Network-based Processing (PDP)
-- [x] [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uj3eWlIAAAAJ&citation_for_view=uj3eWlIAAAAJ:u-x6o8ySG0sC), [Code](https://github.com/BT-MasterThesis/SoftErrorVulnerabilityPrediction-GPGPU)
+- [x] [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uj3eWlIAAAAJ&citation_for_view=uj3eWlIAAAAJ:u-x6o8ySG0sC), [Code](https://github.com/BT-MasterThesis/SoftErrorVulnerabilityPrediction-GPGPUs)
 
 ### **Performance Evaluation of CUDA Optimizations for Convolution Operations** <br />
 - [ ] Conference: BASARIM 2022 - 7th High-Performance Computing Conference 
