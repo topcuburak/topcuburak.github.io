@@ -49,6 +49,7 @@ author_profile: true
 - _Date_: 2019 Summer Term
 
 **Internship Summary**: During my internship at [Dalgakiran](https://www.dalgakiran.com/en/), I was expected to design electrical boards for various compressor machines where electrical boards are equipped with multiple sensors and a PCB. Basically, PLC controls the machinery actuators through sensors and enables them to operate properly.
+
 ![dalgakiran-1 (1)](https://github.com/user-attachments/assets/ca489e4a-8d33-4994-8201-583324658591)
 ![dalgakiran-2 (1)](https://github.com/user-attachments/assets/f782f414-ad61-444e-80ab-8ea619df2968)
 
