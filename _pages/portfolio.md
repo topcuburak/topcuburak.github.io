@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-## Academic Activities 
+## $${\color{lightblue}Light \space Academic Activities }$$
 ### CERCIRAS Summer School (2022 - Split, Crotia) 
 **Summary:** - I attended the CERCIRAS Training School in 2022. The training school included dense and fast lessons, as listed below, given by many professors from DTU, the University of Padua, RUC, and the University of Szeged. 
 - [ ] _Time-predictable Multicore Architectures:_ Architecture introduction and time-predictability; T-CREST multicore processor; reconfigurable interconnectors, and MPI using Argo for NoCs.
