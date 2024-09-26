@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Academic Activities
+
 ### CERCIRAS Summer School (2022 - Split, Crotia) 
 **Summary:** - I attended the CERCIRAS Training School in 2022. The training school included dense and fast lessons, as listed below, given by many professors from DTU, the University of Padua, RUC, and the University of Szeged. 
 > **_Time-predictable Multicore Architectures:_** Architecture introduction and time-predictability; T-CREST multicore processor; reconfigurable interconnectors, and MPI using Argo for NoCs. <br>
@@ -13,9 +14,9 @@ author_profile: true
 > **_Simulation and Behaviour Analysis of Complex Systems:_** Simulating IoT-Fog-Cloud systems; modelling, realizing and analyzing fog-assisted blockchain systems; and PriFoB: a Blockchain-based credential management service. <br>
 > **_Understanding Mixed-Criticality Systems' Models and Implementation:_** Basics of real-time scheduling and response time analysis, Current innovations on mixed-criticality systems, concrete implementation with feather-weight instrumentation. <br>
 
-
-
-### HiPEAC Student Challenge - Fastest and The most energy efficient Histogram Equalization (2021)
+### HiPEAC Student Challenge - The most Efficient Histogram Equalization (2021)
+**Summary:** I attended one of the [HiPEAC](https://www.hipeac.net/#/) [Student Challenges](https://www.hipeac.net/news/6964/hipeac-student-challenge-viii-histograms-in-the-making/) at Lyon in 2022, where we were expected to implement the fastest and the most energy-efficient histogram equalization algorithm. In this manner, my teammates and I implemented the histogram equalization algorithm on a _CPU_, _GPU_, and _Xilinx Zynq Ultrascale+_, and demonstrated our results on performance and power consumption for those three platforms. We won the competition among other competitors with our results.
+- [**Report and Presentation**](https://github.com/topcuburak/Internship-Sundance/blob/main/Histogram_Equalization/Histogram%20Equalization%0APerformance%20and%20Power%20Consumption%0AComparison%20on%20Different%20Platforms.pdf), [**Codes and results**](https://github.com/topcuburak/Internship-Sundance/tree/main/Histogram_Equalization)
 
 ## Industrial Activities
 ### Internships
