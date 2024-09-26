@@ -10,7 +10,7 @@ author_profile: true
 
 ## Industrial Activities
 ### Internships
-**1. Sundance Multiprocessor (Chesham, UK) - Long-Term Internship**
+**3. Sundance Multiprocessor (Chesham, UK) - Long-Term Internship**
 - _Task_: Development of Power Profiling for Current Applications through VCS-1 and LynSyn Lite 
 - _Start/End_: 05.10.2021 / 10.10.2021  
 
@@ -19,9 +19,14 @@ author_profile: true
 
 **2. Roketsan (Defense Industry - Ankara, Turkey) - Internship**
 - _Task_: Developing FAST and BRIEF algorithms through Xilinx Ultrascale SoCs 
-- _Date_: 2019
+- _Date_: 2019 Summer Term
 
 **Internship Summary**: During my internship at [Roketsan](https://www.roketsan.com.tr/en), I was expected to implement _[FAST](https://docs.opencv.org/3.4/df/d0c/tutorial_py_fast.html) (Features from Accelerated Segment Test)_ and _[BRIEF](https://docs.opencv.org/3.4/dc/d7d/tutorial_py_brief.html) (Binary Robust Independent Elementary Features)_ algorithms onto Xilinx FPGAs to test how they can be used to guide missile systems. Since it's a defense industry, I wasn't allowed to share code developments but I reported the allowed information in the following report. 
 - [**Internship report**](reports/RoketsanIntenshipReport.pdf)
 
-**3. Dalgakiran Compressor (Compressor Machinery Industry) - Internship**
+**1. Dalgakiran Compressor (Compressor Machinery Industry) - Internship**
+- _Task_: Designing and integrating electrical panels, including multiple sensors and PLC, into the compressor machinery. 
+- _Date_: 2019 Summer Term
+
+**Internship Summary**: During my internship at [Dalgakiran](https://www.dalgakiran.com/en/), I was expected to design electrical boards for various compressor machines where electrical boards are equipped with multiple sensors and a PCB. Basically, PLC controls the machinery actuators through sensors and enables them to operate properly.
+
