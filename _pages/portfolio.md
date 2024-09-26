@@ -7,10 +7,10 @@ author_profile: true
 ## $${\color{lightblue}Light \space Academic Activities }$$
 ### CERCIRAS Summer School (2022 - Split, Crotia) 
 **Summary:** - I attended the CERCIRAS Training School in 2022. The training school included dense and fast lessons, as listed below, given by many professors from DTU, the University of Padua, RUC, and the University of Szeged. 
-> _Time-predictable Multicore Architectures:_ Architecture introduction and time-predictability; T-CREST multicore processor; reconfigurable interconnectors, and MPI using Argo for NoCs.
-> _Enery Consumption and Optimization Software:_ Measuring energy consumption through RAPL, and some tools on Python for statistical analysis.
-> _Simulation and Behaviour Analysis of Complex Systems:_ Simulating IoT-Fog-Cloud systems; modelling, realizing and analyzing fog-assisted blockchain systems; and PriFoB: a Blockchain-based credential management service.
-> _Understanding Mixed-Criticality Systems' Models and Implementation:_ Basics of real-time scheduling and response time analysis, Current innovations on mixed-criticality systems, concrete implementation with feather-weight instrumentation
+> _Time-predictable Multicore Architectures:_ Architecture introduction and time-predictability; T-CREST multicore processor; reconfigurable interconnectors, and MPI using Argo for NoCs. <br>
+> _Enery Consumption and Optimization Software:_ Measuring energy consumption through RAPL, and some tools on Python for statistical analysis. <br>
+> _Simulation and Behaviour Analysis of Complex Systems:_ Simulating IoT-Fog-Cloud systems; modelling, realizing and analyzing fog-assisted blockchain systems; and PriFoB: a Blockchain-based credential management service. <br>
+> _Understanding Mixed-Criticality Systems' Models and Implementation:_ Basics of real-time scheduling and response time analysis, Current innovations on mixed-criticality systems, concrete implementation with feather-weight instrumentation. <br>
 
 
 
