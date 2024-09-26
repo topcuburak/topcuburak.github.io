@@ -5,8 +5,19 @@ permalink: /portfolio/
 author_profile: true
 ---
 ## Academic Activities 
-### CERCIRAS Summer School (2022, Crotia) 
-### HiPEAC Student Challenge - Fastest and The most energy efficient Histogram Equalization 
+### CERCIRAS Summer School (2022 - Split, Crotia) 
+Courses: 
+- _Time-predictable Multicore Architectures:_ Architecture introduction and time-predictability; T-CREST multicore processor; reconfigurable interconnectors, and MPI using Argo for NoCs.
+- _Enery Consumption and Optimization Software:_ Measuring energy consumption through RAPL, and some tools on Python for statistical analysis.
+- _Simulation and Behaviour Analysis of Complex Systems:_ Simulating IoT-Fog-Cloud systems; modelling, realizing and analyzing fog-assisted blockchain systems; and PriFoB: a Blockchain-based credential management service.
+- _Understanding Mixed-Criticality Systems' Models and Implementation:_ Basics of real-time scheduling and response time analysis, Current innovations on mixed-criticality systems, concrete implementation with feather-weight instrumentation
+
+
+- I have attended the CERCIRAS Training School funded by COST Action in 2022. The education details are shared [here](https://www.cerciras.org/wp-content/uploads/2022/07/CERCIRAS-Summer-School-2022-Programmatic.pdf).
+
+
+
+### HiPEAC Student Challenge - Fastest and The most energy efficient Histogram Equalization (2021)
 
 ## Industrial Activities
 ### Internships
