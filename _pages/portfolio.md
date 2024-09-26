@@ -22,6 +22,6 @@ author_profile: true
 - _Date_: 2019
 
 **Internship Summary**: During my internship at [Roketsan](https://www.roketsan.com.tr/en), I was expected to implement _[FAST](https://docs.opencv.org/3.4/df/d0c/tutorial_py_fast.html) (Features from Accelerated Segment Test)_ and _[BRIEF](https://docs.opencv.org/3.4/dc/d7d/tutorial_py_brief.html) (Binary Robust Independent Elementary Features)_ algorithms onto Xilinx FPGAs to test how they can be used to guide missile systems. Since it's a defense industry, I wasn't allowed to share code developments but I reported the allowed information in the following report. 
-- [**Internship report**](https://www.sundance.com/hipeac-internship-report-2021/)
+- [**Internship report**](reports/RoketsanIntenshipReport.pdf)
 
 **3. Dalgakiran Compressor (Compressor Machinery Industry) - Internship**
