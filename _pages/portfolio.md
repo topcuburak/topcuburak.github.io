@@ -12,10 +12,12 @@ author_profile: true
 > **_Enery Consumption and Optimization Software:_** Measuring energy consumption through RAPL, and some tools on Python for statistical analysis. <br>
 > **_Simulation and Behaviour Analysis of Complex Systems:_** Simulating IoT-Fog-Cloud systems; modelling, realizing and analyzing fog-assisted blockchain systems; and PriFoB: a Blockchain-based credential management service. <br>
 > **_Understanding Mixed-Criticality Systems' Models and Implementation:_** Basics of real-time scheduling and response time analysis, Current innovations on mixed-criticality systems, concrete implementation with feather-weight instrumentation. <br>
+![CERCIRAS2022TrainingSchool](https://github.com/user-attachments/assets/eff08137-3088-4ec1-93f4-e377be35b440)
 
 ### HiPEAC Student Challenge - The most Efficient Histogram Equalization (2021)
 **Summary:** I attended one of the [HiPEAC](https://www.hipeac.net/#/) [Student Challenges](https://www.hipeac.net/news/6964/hipeac-student-challenge-viii-histograms-in-the-making/) at Lyon in 2022, where we were expected to implement the fastest and the most energy-efficient histogram equalization algorithm. In this manner, my teammates and I implemented the histogram equalization algorithm on a _CPU_, _GPU_, and _Xilinx Zynq Ultrascale+_, and demonstrated our results on performance and power consumption for those three platforms. We won the competition among other competitors with our results.
 - [**Report and Presentation**](https://github.com/topcuburak/Internship-Sundance/blob/main/Histogram_Equalization/Histogram%20Equalization%0APerformance%20and%20Power%20Consumption%0AComparison%20on%20Different%20Platforms.pdf), [**Codes and results**](https://github.com/topcuburak/Internship-Sundance/tree/main/Histogram_Equalization)
+![histogramEqualization](https://github.com/user-attachments/assets/ed71e2e9-973d-40ce-b8f8-f7af04b7a5f4)
 
 ### TAships
 
