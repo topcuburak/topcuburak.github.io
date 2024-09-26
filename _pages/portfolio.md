@@ -13,7 +13,7 @@ author_profile: true
 > **_Simulation and Behaviour Analysis of Complex Systems:_** Simulating IoT-Fog-Cloud systems; modelling, realizing and analyzing fog-assisted blockchain systems; and PriFoB: a Blockchain-based credential management service. <br>
 > **_Understanding Mixed-Criticality Systems' Models and Implementation:_** Basics of real-time scheduling and response time analysis, Current innovations on mixed-criticality systems, concrete implementation with feather-weight instrumentation. <be>
 
-![CERCIRAS2022TrainingSchool (1)](https://github.com/user-attachments/assets/bc8a5f3d-684f-4dc8-acb2-11141913c564)
+![CERCIRAS2022TrainingSchool (2)](https://github.com/user-attachments/assets/df022ad6-8c28-4a2d-a25e-5985ba847f1b)
 
 ### HiPEAC Student Challenge - The most Efficient Histogram Equalization (2021)
 **Summary:** I attended one of the [HiPEAC](https://www.hipeac.net/#/) [Student Challenges](https://www.hipeac.net/news/6964/hipeac-student-challenge-viii-histograms-in-the-making/) at Lyon in 2022, where we were expected to implement the fastest and the most energy-efficient histogram equalization algorithm. In this manner, my teammates and I implemented the histogram equalization algorithm on a _CPU_, _GPU_, and _Xilinx Zynq Ultrascale+_, and demonstrated our results on performance and power consumption for those three platforms. We won the competition among other competitors with our results.
