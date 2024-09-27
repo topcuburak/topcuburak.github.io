@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Academic Activities
-### RA in the Dept. of CSE, at PSU 
+### RAship in the Dept. of CSE, at PSU 
 - **Summary**: Currently, I am a member of the AI4CI core group, where our research focus spans performance and sustainability issues of trend applications, architectures, and various scale distributed systems. My current research interest is listed below.
   1. UVM Performance in Heterogenous Computing Environments:
      - [ ] Analyzing performance tradeoffs between page migration and remote direct accesses in multi-GPU systems.
