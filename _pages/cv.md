@@ -12,8 +12,11 @@ redirect_from:
 Education
 ======
 * BSc, Electrical/Electronics Engineering @ Middle East Technical University (2015-2020)
+  - [Graduation Project](https://www.youtube.com/watch?v=pE_Y60KRJ9o&t=1s), [Transcript](../files/BurakTopçu_BS-Transcript.pdf)
 * MSc, Computer Engineering @ Izmir Institute of Technology (2020-2023)
-* PhD Comptuer Science and Engineering @ PSU, 2028 (expected)
+  - Advised by Isil Oz, [MSc Thesis](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uj3eWlIAAAAJ&citation_for_view=uj3eWlIAAAAJ:9yKSN-GCB0IC), [Transcript](../files/BurakTopcu_MS-Transcript.pdf)
+* PhD, Computer Science and Engineering @ PSU, 2028 (expected)
+  - Advised by M. Taylan Kandemir
 
 Work experience
 ======
@@ -39,26 +42,10 @@ Work experience
 
 Skills
 ======
-* Data Collection and Analysis Tools
-  * A comprehensive experience in manipulating files, cleaning the data (feature selections/reductions and eliminating outliers), and analyzing them via plots.  
 * Software
-  * Windows and Linux operating systems
-  * C/C++, CUDA, Python (Tensorflow and PyTorch cuDNN accelerators), Verilog (Modelsim, Vivado, and Vitis, FPGA experiences), Assembly (ARM, MIPS, PTX, SASS), MATLAB programming languages,
-  * GPGPU Simulator (GPGPU-Sim), NVIDIA Profiling tools (Nsight Compute Tool - NCU, Nsight Systems - NVPROF 
+  * Linux/Unix-based operating systems, Windows
+  * C/C++, CUDA, GO, Shell scripting, Python (including cuDNN acceleration libraries like Tensorflow and PyTorch), Verilog (Modelsim, Vivado, and Vitis), Assembly (ARM, MIPS, PTX), MATLAB.
+  * Multi GPU simulator (MGPUSim), GPGPU Simulator (GPGPU-Sim, AccelSim, AccelWattch), NVIDIA Profiling tools (NCU, Nsight Systems, NVML library, CUPTI) 
+* Data Collection and Analysis Tools
+  * A comprehensive experience in data manipulation and cleaning (feature selections/reductions and eliminating outliers), and analysis on them.
 * Teaching, Tutoring, and Presentation Skills
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* 
