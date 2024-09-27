@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 # Academic Activities
+### RAship in PARS Research Lab
+- **Summary:** Actively worked on two projects during my RAship at PARS. The former one was about fault tolerance and error propagation analysis of GPGPU applications, while the latter one was about resource-aware compiler design for approximate computing techniques in GPGPU applications. During my RAship there, I gained a comprehensive knowledge of GPU architectures, simulators, applications, and compilers.  
+- _Start/End_: 06.15.2020 / 07.10.2023
+
+### TAships
+- _Task:_ Working actively as a TA in the [Computer Engineering Department @IZTECH](https://ceng.iyte.edu.tr/).
+- _Start/End_: 02.15.2021 / 07.10.2023
+- **Courses**: _1._ [Computer Architecture](https://ceng.iyte.edu.tr/courses/ceng-311/) (CENG311), _2._ [Operating Systems](https://ceng.iyte.edu.tr/courses/ceng-322/) (CENG322), _3._ [Heterogenous Parallel Programming](https://ceng.iyte.edu.tr/courses/ceng-443/) (CENG443), _4._ [Embedded Systems](https://ceng.iyte.edu.tr/courses/ceng-424/) (CENG424), _5._ [Theory of Computation](https://ceng.iyte.edu.tr/courses/ceng-213/) (CENG213), _6._ [Probability and Statistics](https://ceng.iyte.edu.tr/courses/ceng-222/) (CENG222), _7._ [Human Computer Interaction](https://ceng.iyte.edu.tr/courses/ceng-318/) (CENG318), _8._ [Information Security](https://ceng.iyte.edu.tr/courses/ceng-418/) (CENG418), _9._ [Cryptography](https://ceng.iyte.edu.tr/courses/ceng-471/) (CENG471)
+
 ### CERCIRAS Summer School (2022 - Split, Crotia) 
 **Summary:** - I attended the [CERCIRAS Training School in 2022](https://www.cerciras.org/cerciras-training-school-2022/). The training school included dense and fast lessons, as listed below, given by many professors from DTU, the University of Padua, RUC, and the University of Szeged. 
 > **_Time-predictable Multicore Architectures:_** Architecture introduction and time-predictability; T-CREST multicore processor; reconfigurable interconnectors, and MPI using Argo for NoCs. <br>
@@ -20,12 +29,6 @@ author_profile: true
 - [**Report and Presentation**](https://github.com/topcuburak/Internship-Sundance/blob/main/Histogram_Equalization/Histogram%20Equalization%0APerformance%20and%20Power%20Consumption%0AComparison%20on%20Different%20Platforms.pdf), [**Codes and results**](https://github.com/topcuburak/Internship-Sundance/tree/main/Histogram_Equalization)
 
 ![histogramEqualization](https://github.com/user-attachments/assets/ed71e2e9-973d-40ce-b8f8-f7af04b7a5f4)
-
-### TAships
-- _Task:_ Working actively as a TA in the [Computer Engineering Department @IZTECH](https://ceng.iyte.edu.tr/).
-- _Start/End_: 02.15.2021 / 07.10.2023
-- **Courses**: _1._ [Computer Architecture](https://ceng.iyte.edu.tr/courses/ceng-311/) (CENG311), _2._ [Operating Systems](https://ceng.iyte.edu.tr/courses/ceng-322/) (CENG322), _3._ [Heterogenous Parallel Programming](https://ceng.iyte.edu.tr/courses/ceng-443/) (CENG443), _4._ [Embedded Systems](https://ceng.iyte.edu.tr/courses/ceng-424/) (CENG424), _5._ [Theory of Computation](https://ceng.iyte.edu.tr/courses/ceng-213/) (CENG213), _6._ [Probability and Statistics](https://ceng.iyte.edu.tr/courses/ceng-222/) (CENG222), _7._ [Human Computer Interaction](https://ceng.iyte.edu.tr/courses/ceng-318/) (CENG318), _8._ [Information Security](https://ceng.iyte.edu.tr/courses/ceng-418/) (CENG418), _9._ [Cryptography](https://ceng.iyte.edu.tr/courses/ceng-471/) (CENG471)
-
 
 # Industrial Activities
 ## Job Experiences
