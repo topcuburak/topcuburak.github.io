@@ -22,6 +22,10 @@ author_profile: true
 ![histogramEqualization](https://github.com/user-attachments/assets/ed71e2e9-973d-40ce-b8f8-f7af04b7a5f4)
 
 ### TAships
+- _Task:_ Working actively as a TA in the [Computer Engineering Department @IZTECH](https://ceng.iyte.edu.tr/).
+- _Start/End_: 02.15.2021 / 07.10.2023
+- **Courses**: _1._ [Computer Architecture](https://ceng.iyte.edu.tr/courses/ceng-311/) (CENG311), _2._ [Operating Systems](https://ceng.iyte.edu.tr/courses/ceng-322/) (CENG322), _3._ [Heterogenous Parallel Programming](https://ceng.iyte.edu.tr/courses/ceng-443/) (CENG443), _4._ [Embedded Systems](https://ceng.iyte.edu.tr/courses/ceng-424/) (CENG424), _5._ [Theory of Computation](https://ceng.iyte.edu.tr/courses/ceng-213/) (CENG213), _6._ [Probability and Statistics](https://ceng.iyte.edu.tr/courses/ceng-222/) (CENG222), _7._ [Human Computer Interaction](https://ceng.iyte.edu.tr/courses/ceng-318/) (CENG318), _8._ [Information Security](https://ceng.iyte.edu.tr/courses/ceng-418/) (CENG418), _9._ [Cryptography](https://ceng.iyte.edu.tr/courses/ceng-471/) (CENG471)
+
 
 # Industrial Activities
 ## Job Experiences
