@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 # Academic Activities
+### RA in the Dept. of CSE, at PSU 
+- **Summary**: Currently, I am a member of the AI4CI core group, where our research focus spans performance and sustainability issues of trend applications, architectures, and various scale distributed systems. My current research interest is listed below.
+  1. UVM Performance in Heterogenous Computing Environments:
+     - [ ] Analyzing performance tradeoffs between page migration and remote direct accesses in multi-GPU systems.
+     - [ ] Mitigating the performance overhead of address translation impact in multi-GPU systems.
+  2. Sustainability in Computing Systems
+     - [ ] Carbon footprint measurements in various scale computing infrastructures.
+     - [ ] Research on the methodological approaches to mitigate carbon footprint on cloud infrastructures.
+  3. LLM Inference Accelerators
+
 ### RAship in PARS Research Lab
 - **Summary:** Actively worked on two projects during my RAship at [PARS](https://parsiyte.github.io/). The former one was about [fault tolerance and error propagation analysis](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=Jber3GMAAAAJ&sortby=pubdate&citation_for_view=Jber3GMAAAAJ:QIV2ME_5wuYC) of GPGPU applications, while the latter one was about [resource-aware compiler design for approximate computing techniques](https://parsiyte.github.io/project/#:~:text=Grant%20%2D%202023/2025.-,RAPPROX,-%2D%20Resource%2DAware%20Compiler) in GPGPU applications. During my RAship there, I gained a comprehensive knowledge of GPU architectures, simulators, applications, and compilers. Our publications and my MSc thesis through these projects are mentioned in the publications section. 
 - _Start/End_: 06.15.2020 / 07.10.2023
