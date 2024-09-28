@@ -42,10 +42,9 @@ Work experience
 
 Skills
 ======
-* Software
-  * Linux/Unix-based operating systems, Windows
-  * C/C++, CUDA, GO, Shell scripting, Python (including cuDNN acceleration libraries like Tensorflow and PyTorch), Verilog (Modelsim, Vivado, and Vitis), Assembly (ARM, MIPS, PTX), MATLAB.
-  * Multi GPU simulator (MGPUSim), GPGPU Simulator (GPGPU-Sim, AccelSim, AccelWattch), NVIDIA Profiling tools (NCU, Nsight Systems, NVML library, CUPTI) 
-* Data Collection and Analysis Tools
-  * A comprehensive experience in data manipulation and cleaning (feature selections/reductions and eliminating outliers), and analysis on them.
-* Teaching, Tutoring, and Presentation Skills
+* _Operating systems:_ Linux/Unix-based operating systems, Windows
+* _Programming skills:_ C/C++, CUDA, GO, Shell scripting, Python, Verilog (Modelsim, Vivado, and Vitis), Assembly (ARM, MIPS, PTX), MATLAB.
+  * _Libraries:_ Multithreaded programming (both pthread and OpenMP), MPI (C/C++), STL (C++), Sci-kit built-ins, Tensorflow, and PyTorch on top of cuDNN (Python),  
+  * _Simulators and Profiling Tools:_ Multi GPU (MGPUSim), GPGPUSim (AccelSim, AccelWattch), NVIDIA Profiling tools (NCU, Nsight Systems, NVML and CUPTI libraries) 
+  * _Data Collection and Analysis Tools:_ A comprehensive experience in data manipulation and cleaning (feature selections/reductions and eliminating outliers), and analysis on them.
+* Experiences in teaching, and tutoring and presentation skills
